@@ -32,6 +32,15 @@
 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 - ![hha-w150](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png) 免费的计算机编程类中文书籍，欢迎投稿
  
+ 
+
+[Golang标准库文档](http://studygolang.com/pkgdoc)
+-  github 开源项目 欢迎有能力(翻译)的同学贡献,有何意见也可任意提出
+ 
+[Golang收集github](https://gitbrowse.com/repos/Unknwon/go-rock-libraries-showcases)
+-  一个资源网站[go资源网站](http://www.ctolib.com/search/?term=xpath&catalogId=218)
+ 
+
 
 
 ## Golang 爬虫
