@@ -56,6 +56,9 @@
 -  W3School Go语言 教程  
 
 
+[Go语言教程](http://yiibai.com/go/) 
+-  Go语言教程 [Go语言视频教程](http://www.imooc.com/learn/345) 
+
 
 
 ## Golang 爬虫
