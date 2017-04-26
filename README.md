@@ -41,6 +41,21 @@
 -  一个资源网站[go资源网站](http://www.ctolib.com/search/?term=xpath&catalogId=218)
  
 
+[gowalker](https://gowalker.org/) API
+-  API[Golang标准库文档](http://studygolang.com/pkgdoc)
+ 
+
+[awesome-go](https://awesome-go.com/) 
+-  awesome-go  
+
+
+[说说你经常使用的go标准包里哪些包？](https://gocn.io/question/288) 
+-  说说你经常使用的go标准包里哪些包？  
+
+[W3School Go语言 教程](https://wizardforcel.gitbooks.io/w3school-go/content/20-5.html) 
+-  W3School Go语言 教程  
+
+
 
 
 ## Golang 爬虫
@@ -67,6 +82,23 @@
     [文档](https://github.com/hu17889/go_spider/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 
 
+[awesome-crawler-cn](https://github.com/liinnux/awesome-crawler-cn)
+- 互联网爬虫，蜘蛛，数据采集器，网页解析器的汇总，因新技术不断发展，新框架层出不穷，此文会不断更新...
+
+[onionscan](https://github.com/s-rah/onionscan)
+- OnionScan is a free and open source tool for investigating the Dark Web. https://twitter.com/OnionScan
+
+
+[Geek Spider](https://geekspider.org/senior/146.html)
+- 专注爬虫技术方向研究实验室
+
+[Golang实现的一个并发爬虫框架](http://www.person168.com/?p=384)
+- Golang实现的一个并发爬虫框架
+
+
+[gopa](http://git.oschina.net/medcl/gopa)
+- 爬虫一条，用go写的，外号：狗爬，  
+
 
 ## Golang  包
 
@@ -77,12 +109,22 @@
 [goxpath](https://github.com/ChrisTrenkamp/goxpath)
 - An XPath 1.0 implementation written in the Go programming language.
 
+[xquery](https://github.com/antchfx/xquery)
+- xquery lets you extract data from HTML/XML documents using XPath expression
 
 ## Golang  爬虫案列
 
 [spider4autohome](https://github.com/jockchou/spider4autohome)
 - go_spider爬取汽车之家数据
  
+
+[写了个爬取淘宝购买文胸的评论的爬虫，数据共享](http://studygolang.com/articles/8557)
+- 写了个爬取淘宝购买文胸的评论的爬虫，数据共享
+
+
+
+[微信朋友圈转疯了（golang写小爬虫抓取朋友圈文章）](http://studygolang.com/articles/225)
+- 微信朋友圈转疯了（golang写小爬虫抓取朋友圈文章）
 
 
 
