@@ -129,6 +129,10 @@
 [微信朋友圈转疯了（golang写小爬虫抓取朋友圈文章）](http://studygolang.com/articles/225)
 - 微信朋友圈转疯了（golang写小爬虫抓取朋友圈文章）
 
+## Redis  
+ [Windows 64位下安装Redis超详细教程](http://blog.csdn.net/jinwufeiyang/article/details/52156817)
+ - Windows 64位下安装Redis超详细教程http://www.cnblogs.com/koal/p/5484916.html
+
 
 
 ## 反馈与建议
